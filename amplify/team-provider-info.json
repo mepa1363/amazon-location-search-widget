@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-locationsearchwidget-dev-124007-authRole",
+      "UnauthRoleArn": "arn:aws:iam::779268866906:role/amplify-locationsearchwidget-dev-124007-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::779268866906:role/amplify-locationsearchwidget-dev-124007-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-locationsearchwidget-dev-124007-deployment",
+      "UnauthRoleName": "amplify-locationsearchwidget-dev-124007-unauthRole",
+      "StackName": "amplify-locationsearchwidget-dev-124007",
+      "StackId": "arn:aws:cloudformation:us-west-2:779268866906:stack/amplify-locationsearchwidget-dev-124007/3ae50c90-fe24-11ec-a40d-0a4a70bbac8f",
+      "AmplifyAppId": "d1bu5qeeacj2u6"
+    },
+    "categories": {
+      "auth": {
+        "true": {},
+        "locationsearchwidget01b92c56": {}
+      }
+    }
+  }
+}
